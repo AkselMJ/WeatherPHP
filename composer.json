@@ -4,9 +4,7 @@
     "description": "Client for weatherapi.com",
     "license": "MIT",
     "require": {
-        "guzzlehttp/guzzle": "7.5",
-        "ext-http": "*",
-        "ext-json": "*"
+        "guzzlehttp/guzzle": "7.5"
     },
     "autoload": {
         "psr-4": {
