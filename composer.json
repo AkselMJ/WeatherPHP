@@ -1,4 +1,8 @@
 {
+    "name": "akselmj/weatherapi-php-client",
+    "type": "library",
+    "description": "Client for weatherapi.com",
+    "license": "MIT",
     "require": {
         "guzzlehttp/guzzle": "7.5",
         "ext-http": "*",
